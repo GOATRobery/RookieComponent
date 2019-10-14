@@ -114,8 +114,6 @@
 				F49DFD8E2334E19B00933555 /* AppDelegate.m */,
 				F49DFD902334E19B00933555 /* ViewController.h */,
 				F49DFD912334E19B00933555 /* ViewController.m */,
-				F4C67264234080CA006942EA /* UIView+Rect.h */,
-				F4C67265234080CA006942EA /* UIView+Rect.m */,
 				F4C672672340839B006942EA /* DigPermissionView.h */,
 				F4C672682340839B006942EA /* DigPermissionView.m */,
 				F4B0A1D023545C20001253D9 /* Category */,
@@ -193,6 +191,8 @@
 		F4B0A1D023545C20001253D9 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				F4C67264234080CA006942EA /* UIView+Rect.h */,
+				F4C67265234080CA006942EA /* UIView+Rect.m */,
 				F4B0A1D123545C20001253D9 /* UIColor+AMCategory.h */,
 				F4B0A1D223545C20001253D9 /* UIColor+AMCategory.m */,
 			);

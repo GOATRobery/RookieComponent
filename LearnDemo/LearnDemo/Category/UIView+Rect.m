@@ -1,8 +1,8 @@
 //
 //  UIView+Rect.m
-//  boluolicai
+//  apple
 //
-//  Created by 张松超 on 15/11/5.
+//  Created by apple on 15/11/5.
 //  Copyright © 2015年 Pusupanshi. All rights reserved.
 //
 
