@@ -1,6 +1,6 @@
 //
 //  DigPermissionView.m
-//  Insights
+//  MPLWade
 //
 //  Created by Apple on 2019/9/26.
 //  Copyright © 2019 apple. All rights reserved.
